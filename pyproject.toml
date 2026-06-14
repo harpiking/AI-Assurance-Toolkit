@@ -8,7 +8,7 @@ version = "0.1.0"
 description = "A Python toolkit for evaluating AI model reliability, performance, and deployment readiness."
 readme = "README.md"
 requires-python = ">=3.10"
-license = { text = "MIT" }
+license = { text = "Apache-2.0" }
 
 authors = [
   { name = "Happy Iguare", email = "haigu1@morgan.edu" }
