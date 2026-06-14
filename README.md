@@ -64,4 +64,4 @@ from ai_assurance_toolkit import run_performance_evaluation
 ```
 
 # License
-MIT License.
+Apache License 2.0.
